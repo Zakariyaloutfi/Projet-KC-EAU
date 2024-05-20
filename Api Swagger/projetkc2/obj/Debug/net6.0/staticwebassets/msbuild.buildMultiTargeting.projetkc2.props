@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\projetkc2.props" />
+</Project>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>projetkc2</name>
+    </assembly>
+    <members>
+        <member name="M:InformationController.Controllers.InformationController.Get">
+            <summary>
+            Definition du Web Service
+            </summary>
+            <remarks>Je manque d'imagination</remarks>
+            <param name="IdInformation">IdInformation du client a retourné</param>   
+            <response code="200">client selectionné</response>
+            <response code="404">client introuvable pour l'IdInformation specifié</response>
+            <response code="500">Oops! le service est indisponible pour le moment</response>
+        </member>
+        <member name="M:projetIdInformation.Controllers.PlanteController.Get">
+            <summary>
+            Definition du Web Service
+            </summary>
+            <remarks>Je manque d'imagination</remarks>
+            <param name="IdPlante">IdPlante du client a retourné</param>   
+            <response code="200">client selectionné</response>
+            <response code="404">client introuvable pour l'IdPlante specifié</response>
+            <response code="500">Oops! le service est indisponible pour le moment</response>
+        </member>
+        <member name="M:projetIdInformation.Controllers.reserveController.Get">
+            <summary>
+            Definition du Web Service
+            </summary>
+            <remarks>Je manque d'imagination</remarks>
+            <param name="IdReserve">IdReserve du client a retourné</param>   
+            <response code="200">client selectionné</response>
+            <response code="404">client introuvable pour l'IdReserve specifié</response>
+            <response code="500">Oops! le service est indisponible pour le moment</response>
+        </member>
+        <member name="M:projettype.Controllers.TypeController.Get">
+            <summary>
+            Definition du Web Service
+            </summary>
+            <remarks>Je manque d'imagination</remarks>
+            <param name="IdType">IdType du client a retourné</param>   
+            <response code="200">client selectionné</response>
+            <response code="404">client introuvable pour l'IdType specifié</response>
+            <response code="500">Oops! le service est indisponible pour le moment</response>
+        </member>
+    </members>
+</doc>

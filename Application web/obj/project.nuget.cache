@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BAZ+4VBW+WiJi5tKYxsgQmb59iU1jt3lvgJf2aYH2hZd2GZGuzYnsXbVPCJPzuII9QAYYEKdIfckRZwZNxPDvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zakar\\OneDrive\\Documents\\cours\\epreuve E5 doc\\github\\Projet-KC-EAU\\Application web\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zakar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
